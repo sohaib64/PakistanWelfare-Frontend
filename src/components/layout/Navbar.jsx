@@ -1,7 +1,7 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext';
 import { Button } from '../ui/button';
-import MyImage from '../../assets/NgoLogoImg.png';
+import MyImage from '../../assets/PWTLogo.png';
 import { LayoutDashboard, Target, User, LogOut, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
